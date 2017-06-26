@@ -7,5 +7,4 @@ So this will reduce redundancy and speed up my work.
 
 Index
 1. page layout
-  1.1 Sticky footer
-  1.2
+ 1.1 Sticky footer
